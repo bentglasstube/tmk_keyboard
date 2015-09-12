@@ -10,8 +10,8 @@ const uint8_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
   /* Function Layer */
   KEYMAP(SLEP,  F1,    F2,    F3,    F4,    F5,    F6,    F7,    F8,    F9,    F10,   F11,   F12,   DEL,  \
-         CALC,  HOME,  UP,    END,   PGUP,  TRNS,  HOME,  PGDN,  PGUP,  END,   PSCR,  VOLD,  VOLU,  MUTE, \
-         TRNS,  LEFT,  DOWN,  RGHT,  PGDN,  TRNS,  LEFT,  DOWN,  UP,    RGHT,  PAUS,  GRV,          PENT, \
+         TRNS,  HOME,  UP,    END,   PGUP,  TRNS,  HOME,  PGDN,  PGUP,  END,   PSCR,  VOLD,  VOLU,  MUTE, \
+         CAPS,  LEFT,  DOWN,  RGHT,  PGDN,  TRNS,  LEFT,  DOWN,  UP,    RGHT,  PAUS,  GRV,          PENT, \
          TRNS,  MPRV,  MPLY,  MSTP,  MNXT,  TRNS,  INS,   TRNS,  TRNS,  TRNS,  TRNS,                TRNS, \
          TRNS,  TRNS,  TRNS,                TRNS,                       TRNS,  TRNS,          TRNS, TRNS),
 
